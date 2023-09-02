@@ -22,3 +22,4 @@ void print_binary(unsigned long int n)
 	}
 	if (!printed)
 		_putchar('0');
+}
